@@ -1,0 +1,1 @@
+Scaffold-Dbcontext "Server=DESKTOP-3I7N9AP\SQLEXPRESS;Database=coredb;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir db
